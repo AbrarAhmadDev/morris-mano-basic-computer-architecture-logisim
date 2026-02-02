@@ -1,7 +1,7 @@
 # morris-mano-basic-computer-architecture-logisim
 A complete, from-scratch, implementation of the Morris Mano Basic Computer designed in Logisim. This project covers registers, ALU, memory, control logic, and instruction execution based on Mano’s Computer System Architecture.
 
-📌 Overview
+# 📌 Overview
 
 This repository contains an implementation of the Morris Mano Basic Computer architecture designed using Logisim.
 The project demonstrates fundamental concepts of computer organization and architecture, including datapath design, control logic, registers, and instruction execution at the hardware level.
@@ -13,11 +13,11 @@ The design is split into:
 2) separate components circuit / modules
 <img width="599" height="800" alt="Screenshot 2026-02-02 231056" src="https://github.com/user-attachments/assets/8963a9c7-9f98-47c2-8604-b9d1ee2f75e8" />
 
-📜 License
+# 📜 License
 
 This project is licensed under the MIT License — feel free to use, modify, and learn from it.
 
-🙌 Acknowledgment
+# 🙌 Acknowledgment
 
 Based on the Basic Computer architecture described in:
 M. Morris Mano – Computer System Architecture
